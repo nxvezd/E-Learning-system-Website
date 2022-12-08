@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <title>tutor list</title>
+<head>
+    <style>
+        p{
+            background-color: aqua;
+            color: black;
+            font-size: 4px;
+        }
+    </style>
+</head>
+<body>
+<p>Chemistry - Dr.Sreenivasan 8756474757 <br>
+   Physics - Dr.Mukesh sindra 905893939 <br>
+   Maths - Dr.Chandrashekhar 758485565 <br>
+   Biology - Dr.Susheel 768578675 
+</p>
+</body>
+</html>
